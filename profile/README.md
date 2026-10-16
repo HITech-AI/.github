@@ -14,6 +14,7 @@ HITech-AI 是"智启新航"AI 研学社的 GitHub 开源组织。社团以**朋�
 |---|---|
 | 想了解社团主题与四部门 | 见下方「主题内涵」「四部门」 |
 | 想学习 AI、找学习路线与资料 | 前往 [`docs`](https://github.com/HITech-AI/docs) 文档库 |
+| 想了解社团门面项目 | 前往 [`HIT-CampusAI`](https://github.com/HITech-AI/HIT-CampusAI) 校园 AI 助手 |
 | 想参与或发起社团项目 | 前往 [`projects`](https://github.com/HITech-AI/projects) 项目库 |
 | 想提交建议、参与贡献 | 阅读 [CONTRIBUTING](CONTRIBUTING.md) 后提 issue / PR |
 | 想加入社团 | 联系所在学校"智启新航"AI 研学社招新负责人 |
@@ -35,11 +36,18 @@ HITech-AI 是"智启新航"AI 研学社的 GitHub 开源组织。社团以**朋�
 | **研讨部** | 主题调研、读书分享、圆桌讨论、资料整理 | 增强信息力 |
 | **技术部** | AI 原理科普、AI 工具教学、企业 AI 应用解析 | 增强工程力 |
 
+## 门面项目 · HIT-CampusAI
+
+面向哈尔滨工业大学（深圳）师生的一站式校园 AI 生活助手：问办事流程、查图书馆借阅规则、看食堂营业时间，一句自然语言就能得到带知识库出处的回答。技术上用 FAISS 对深圳校区知识库做向量检索，再由国产多模态大模型组织回答（RAG）。
+
+项目完全开源（MIT），欢迎对 AI 应用、大模型、产品与校园服务感兴趣的同学参与建设。前往 [`HIT-CampusAI`](https://github.com/HITech-AI/HIT-CampusAI)。
+
 ## 仓库导航
 
 | 仓库 | 用途 |
 |------|------|
 | `HITech-AI` | 组织主页（网站 hitech-ai.github.io） |
+| `HIT-CampusAI` | 门面项目：哈工大（深圳）校园 AI 生活助手 |
 | `docs` | 文档库：科普、教学、活动归档、部门资料 |
 | `projects` | 项目库：黑客松、竞赛、社团项目与内部工具 |
 | `.github` | 组织 profile 与默认社区规范 |
